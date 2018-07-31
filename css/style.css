@@ -20,9 +20,6 @@ hr{
 #search{
     vertical-align: middle;
 }
-#search-book .row{
-    margin-bottom: 30px;
-}
 #search-text{
     text-align: left;
     font-size: 16px;
@@ -39,7 +36,7 @@ hr{
     margin-bottom: 10px;
 }
 #add-book .form-group{
-    margin-bottom: 0;
+    margin-bottom: 0px;
 }
 #add-book button{
     margin-top: 20px;
@@ -56,7 +53,7 @@ hr{
     margin-bottom: 10px;
 }
 #update-book .form-group{
-    margin-bottom: 0;
+    margin-bottom: 0px;
 }
 #update-book button{
     margin-top: 20px;
